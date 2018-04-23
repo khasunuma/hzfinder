@@ -1,0 +1,2 @@
+# hzfinder
+Find Hazelcast nodes
